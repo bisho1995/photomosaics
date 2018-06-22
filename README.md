@@ -9,3 +9,6 @@ It works on the principle that we can approximate the color of an image by calcu
 ![](https://github.com/bisho1995/photomosaics/blob/master/inputs/image.jpg)
 
 ![](https://github.com/bisho1995/photomosaics/blob/master/outputs/new_img83429.jpg)
+
+## sidenote
+Zoom your browser to about 500% and you can see the effect i.e the smaller images which is making the final image.
